@@ -1,0 +1,13 @@
+Nom du projet : Credit Comparator
+
+Lien GitHub : https://github.com/tahayassine2000najjar-droid/Credit-Comparator.git
+
+Je choisis le projet Credit Comparator parce qu'il répond au besoin de comparer les offres de crédit entre différentes banques marocaines (Attijari, CIH, Bank Populaire, BMCE) pour aider les emprunteurs à prendre des décisions éclairées.
+
+Il me permet de montrer mes compétences en React, JavaScript, calculs financiers, conception d'interfaces utilisateur interactives et développement front-end avec Vite et Tailwind CSS.
+
+Pendant la démonstration, je vais principalement montrer le système de comparaison des offres de crédit avec des cartes bancaires interactives, le calcul automatique des mensualités et du coût total, ainsi que le visualiseur d'intérêts composés.
+
+Ma contribution personnelle est la conception et le développement complet de l'application : architecture du composant Card avec effet flip CSS, implémentation des algorithmes de calcul financier (mensualité amortissable, coût total, intérêts composés), intégration des données des banques marocaines et mise en place de la logique de recommandation automatique de la meilleure offre.
+
+Les améliorations nécessaires avant la démonstration sont l'ajout d'un responsive design pour mobile, l'intégration d'un graphique de visualisation pour l'évolution des intérêts composés, l'ajout de filtres et tris supplémentaires, et le déploiement sur une plateforme comme Vercel ou Netlify pour un accès en ligne.
